@@ -1,5 +1,6 @@
+# Example
+![](example.gif)
 # How to use?
-[Example video](video.mp4)
 ```shell
 python main.py [svgPath]
 ```
