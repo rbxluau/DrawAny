@@ -1,5 +1,5 @@
 # Example
-<video src="video.mp4"></video>
+<video src="https://raw.githubusercontent.com/rbxluau/DrawAny/refs/heads/master/video.mp4"></video>
 # How to use?
 ```shell
 python main.py [svgPath]
