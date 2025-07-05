@@ -1,6 +1,5 @@
-# Example
-<video src="https://raw.githubusercontent.com/rbxluau/DrawAny/refs/heads/master/video.mp4"></video>
 # How to use?
+[Example video](video.mp4)
 ```shell
 python main.py [svgPath]
 ```
